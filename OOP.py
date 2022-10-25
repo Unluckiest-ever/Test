@@ -1,6 +1,6 @@
 Object_list = []
 
-class Car():
+#class Car():
     door = 'Двери_закрыты'
     light = "Фары_выключены"
     Name = None
