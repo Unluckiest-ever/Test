@@ -1,4 +1,5 @@
 avtlist = open('avtlist.txt', 'r+', encoding='utf-8').read().splitlines()
+#hello
 class Menu():
     @staticmethod
     def start():
